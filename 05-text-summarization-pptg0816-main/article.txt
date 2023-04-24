@@ -1,0 +1,38 @@
+In 1587, hours before her beheading, Mary, Queen of Scots, sent a letter to her brother-in-law Henry III, King of France.
+But she didn’t just sign it and send it off.
+She folded the paper repeatedly, cut out a piece of the page and left it dangling.
+She used that strand of paper to sew the letter tight with locking stitches.
+In an era before sealed envelopes, this technique, now called letterlocking, was as important for deterring snoops as encryption is to your email inbox today.
+Although this art form faded in the 1830s with the advent of mass-produced envelopes, it has recently attracted renewed attention from scholars.
+But they have faced a problem: How do you look at the contents of such locked letters without permanently damaging priceless bits of history?
+On Tuesday, a team of 11 scientists and scholars at the Massachusetts Institute of Technology and other institutions disclosed their development of a virtual-reality technique that lets them perform this delicate task without tearing up the contents of historical archives.
+In the journal Nature Communications, the team tells of virtually opening four undelivered letters written from 1680 and 1706.
+The dispatches had ended up in a wooden postal trunk in The Hague. Known as the Brienne Collection, the box contains 3,148 items, including 577 letters that were never unlocked.
+The new technique could open a window into the long history of communications security.
+And by unlocking private intimacies, it could aid researchers studying stories concealed in fragile pages found in archives all over the world.
+“Let’s start virtually unfolding” the locked letters, said Daniel S. Smith, a team member at King’s College London, “and seeing what secrets they reveal.”
+Sealed letters from this 17th-century trunk that belonged to the postmasters Simon and Marie de Brienne were scanned by X-ray microtomography and “virtually unfolded” to reveal their contents for the first time in centuries.
+In an interview, Jana Dambrogio, the study’s lead author and a conservator at the M.I.T. Libraries, said that learning of the trove’s existence inspired her to see if more technologically inclined colleagues could find a way to digitally open the locked letters.
+At the time, in 2014, scholars could read and study such letters only by cutting them open, which often damaged the documents and obscured or eliminated clues as to how they had been secured.
+“We really need to keep the originals,” Ms. Dambrogio said.
+“You can keep learning from them, especially if you keep the locked packets closed.”
+The old letters were protected from prying eyes when the sheets of writing paper were carefully folded to become their own secure enclosures.
+The first step of their digital opening is to scan a target letter with an advanced X-ray machine.
+The resulting three-dimensional image — much like a medical scan — reveals the letter’s internal configuration.
+A computer then analyzes the image to undo the folds and, almost magically, turn the layers into a flat sheet, revealing handwritten text that can be read.
+The team translated one of the digitally opened letters from the Brienne Collection.
+It was dated July 31, 1697, and sent from Lille, France, to a French merchant in The Hague.
+It turned out to be a request for a certified copy of a death notice.
+The letter also asked for “news of your health.”
+More analyses of the Brienne Collection, the paper added, may enrich studies not only of postal networks in early modern Europe but of the region’s politics, religion, music, drama and patterns of migration.
+In addition to announcing its technique for unlocking the letters without damaging them, the team studied 250,000 historical letters that resulted in “the first systematization of letterlocking techniques.”
+The scientists and scholars found 12 formats of locked letters — the most complex having an overall shape defined by 12 borders — as well as 64 categories involving such manipulations as tucks, slits and folds.
+The team gave each locked letter a security score.
+Dr. Smith of King’s College London, who lectures on early modern English literature, said the art was so diverse that a person’s lock could serve almost as a signature.
+A letter, he said, “became an ambassador for you and had to embody something of you.”
+Without the ability to unlock letters digitally, it took a decade for scholars to conclude that Mary, Queen of Scots, had secured the letter to her brother-in-law with a distinctive spiral stitch. Virtual unfolding, the team said, could have documented that step “in a matter of days.”
+And Amanda Ghassaei, one of the M.I.T. researchers, said the team was about to complete an upgrade of the computer code that would reduce the time for a virtual unfolding from days to hours.
+Deborah Harkness, a historian of science at the University of Southern California who was not involved in the research, described the X-ray technique as “almost an archaeological approach” that seeks to minimize investigator impact on artifact recovery.
+The new technique presents “significant innovations,” said Howard Hotson, a professor of early modern intellectual history at the University of Oxford who also had no role in the research.
+For 500 years, he added, letterlocking, a relatively simple technology, prevented anyone from examining correspondence unless a seal was broken.
+“It has taken some very sophisticated digital technology,” he said, “to frustrate this sophisticated security system.”
