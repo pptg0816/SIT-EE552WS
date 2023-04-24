@@ -1,0 +1,5 @@
+{see=1, spot=3, this=1, is=1, run=3}
+{see=1, spot=1, this=1, is=1, run=1, to=1, jane=2}
+{buffalo=8}
+{but=1, a=1, merrily=4, is=1, your=1, down=1, boat=1, life=1, the=1, stream=1, dream=1, gently=1, row=3}
+{was=10, winter=1, best=1, epoch=2, it=10, hope=1, wisdom=1, the=10, spring=1, times=2, incredulity=1, foolishness=1, light=1, of=10, season=2, worst=1, darkness=1, belief=1, despair=1, age=2}
